@@ -1,0 +1,4 @@
+flanneld经常被kill，因为收到了sigkill信号
+具体参见：
+https://blog.csdn.net/xingwangc2014/article/details/51592026
+https://github.com/golang/go/issues/11845
